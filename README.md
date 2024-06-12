@@ -17,13 +17,13 @@
 ![license](https://img.shields.io/github/license/BlackAmda/QueenAmdi?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic)
 
-### Visit our official Queen Amdi 4.0v [Multi-Device] website for deploy instructions
+### Visit our official KEED BOT V4 [Multi-Device] website for deploy instructions
 
 **[» Official Website](https://amdaniwasa.com)**
 
 ### You can join our Beta Testing WhatsApp Group by this invite link
 
-**[» Join beta test group](https://chat.whatsapp.com/Kk9FcrtGYzX1xzky4b1aCJ)**
+**[» Join beta test group](https://chat.whatsapp.com/EbWHlTXWfLcFoMlgWvZFS6)**
 
 ### For heroku deployers: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
@@ -31,7 +31,7 @@
 
 **[» See other deploy methods](https://amdaniwasa.com/#install)**
 
-**[» Queen Amdi announcement group](https://chat.whatsapp.com/InYoHlt2aURC3Rie3l8ulR)**
+**[» KEED BOT V4 announcement group](https://whatsapp.com/channel/0029VahVZ5pJpe8mgxbind3U)**
 
 ## 🐝NICE THE KEED *[ Since 2016 ]*
 
